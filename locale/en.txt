@@ -1,0 +1,22 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_3E593FD5_325A_845A_41A0_3DC3F959CDBE.label = _DSF4928-HDR Panorama
+panorama_3821BD5D_325A_844A_41B5_7503D6B7D416.label = _DSF4991-HDR Panorama
+panorama_3826BFEF_325A_8446_41C2_FD8C9F20648C.label = _DSF5052-HDR Panorama
+panorama_38272EFB_325B_844E_41A1_95DC19FEDFBD.label = _DSF5238-HDR Panorama
+panorama_38270276_325B_FC46_41BC_EFB33755516A.label = _DSF5298-HDR Panorama
+panorama_38260A64_325B_8C7A_41B4_60257DDE7462.label = _DSF5358-HDR Panorama
+panorama_3826FE22_325A_87FE_41B0_C855990D0DDE.label = _DSF5421-HDR Panorama
+panorama_382641E0_325A_FC7A_41B1_60F7DE9493FC.label = _DSF5481-HDR Panorama
+panorama_382685D0_325A_845A_41C5_CAF11E0DA42B.label = _DSF5664-HDR Panorama
+panorama_38259918_3259_8DCA_41A3_2CFC6FA6ACC0.label = _DSF7244-HDR Panorama
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 17
