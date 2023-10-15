@@ -19,4 +19,4 @@ panorama_38259918_3259_8DCA_41A3_2CFC6FA6ACC0.label = _DSF7244-HDR Panorama
 ### Description
 
 ### Title
-tour.name = Untitled 17
+tour.name = SUATUHARIYANBAIK
