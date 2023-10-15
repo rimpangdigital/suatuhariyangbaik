@@ -19,4 +19,4 @@ panorama_3D887A75_3356_AD3F_41BB_27025EA70316.label = _DSF7244-HDR Panorama
 ### Description
 
 ### Title
-tour.name = SUATUHARIYANBAIK
+tour.name = SUATUHARIYANGBAIK
