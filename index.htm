@@ -6,21 +6,21 @@
     <meta name="viewport" id="metaViewport" content="user-scalable=no, initial-scale=1, width=device-width, viewport-fit=cover" data-tdv-general-scale="0.5"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
-    <script src="lib/tdvplayer.js?v=1697531084024"></script>
-    <link rel="preload" href="locale/en.txt?v=1697531084024" as="fetch" crossorigin="anonymous"/>
-	<link rel="preload" href="script.js?v=1697531084024" as="script"/>
-	<link rel="preload" href="media/panorama_295154DB_3343_582F_4189_2AE765375BBC_0/r/4/0_0.jpg?v=1697531084024" as="image"/>
-	<link rel="preload" href="media/panorama_295154DB_3343_582F_4189_2AE765375BBC_0/l/4/0_0.jpg?v=1697531084024" as="image"/>
-	<link rel="preload" href="media/panorama_295154DB_3343_582F_4189_2AE765375BBC_0/u/4/0_0.jpg?v=1697531084024" as="image"/>
-	<link rel="preload" href="media/panorama_295154DB_3343_582F_4189_2AE765375BBC_0/d/4/0_0.jpg?v=1697531084024" as="image"/>
-	<link rel="preload" href="media/panorama_295154DB_3343_582F_4189_2AE765375BBC_0/f/4/0_0.jpg?v=1697531084024" as="image"/>
-	<link rel="preload" href="media/panorama_295154DB_3343_582F_4189_2AE765375BBC_0/b/4/0_0.jpg?v=1697531084024" as="image"/>
+    <script src="lib/tdvplayer.js?v=1697604537171"></script>
+    <link rel="preload" href="locale/en.txt?v=1697604537171" as="fetch" crossorigin="anonymous"/>
+	<link rel="preload" href="script.js?v=1697604537171" as="script"/>
+	<link rel="preload" href="media/panorama_31EED2A5_3F4D_EAEC_41C3_04D1EE2B6FCD_0/r/4/0_0.jpg?v=1697604537171" as="image"/>
+	<link rel="preload" href="media/panorama_31EED2A5_3F4D_EAEC_41C3_04D1EE2B6FCD_0/l/4/0_0.jpg?v=1697604537171" as="image"/>
+	<link rel="preload" href="media/panorama_31EED2A5_3F4D_EAEC_41C3_04D1EE2B6FCD_0/u/4/0_0.jpg?v=1697604537171" as="image"/>
+	<link rel="preload" href="media/panorama_31EED2A5_3F4D_EAEC_41C3_04D1EE2B6FCD_0/d/4/0_0.jpg?v=1697604537171" as="image"/>
+	<link rel="preload" href="media/panorama_31EED2A5_3F4D_EAEC_41C3_04D1EE2B6FCD_0/f/4/0_0.jpg?v=1697604537171" as="image"/>
+	<link rel="preload" href="media/panorama_31EED2A5_3F4D_EAEC_41C3_04D1EE2B6FCD_0/b/4/0_0.jpg?v=1697604537171" as="image"/>
 	<meta name="description" content="Virtual Tour"/>
 	<meta name="theme-color" content="#FFFFFF"/>
-    <script src="script.js?v=1697531084024"></script>
+    <script src="script.js?v=1697604537171"></script>
     <script type="text/javascript">
         var tour;
-        var devicesUrl = {"general":"script_general.js?v=1697531084024"};
+        var devicesUrl = {"general":"script_general.js?v=1697604537171","mobile":"script_mobile.js?v=1697604537171"};
 
         (function()
         {
@@ -63,9 +63,9 @@
 
             var settings = new TDV.PlayerSettings();
             settings.set(TDV.PlayerSettings.CONTAINER, document.getElementById('viewer'));
-            settings.set(TDV.PlayerSettings.WEBVR_POLYFILL_URL, 'lib/WebVRPolyfill.js?v=1697531084024');
-            settings.set(TDV.PlayerSettings.HLS_URL, 'lib/Hls.js?v=1697531084024');
-            settings.set(TDV.PlayerSettings.QUERY_STRING_PARAMETERS, 'v=1697531084024');
+            settings.set(TDV.PlayerSettings.WEBVR_POLYFILL_URL, 'lib/WebVRPolyfill.js?v=1697604537171');
+            settings.set(TDV.PlayerSettings.HLS_URL, 'lib/Hls.js?v=1697604537171');
+            settings.set(TDV.PlayerSettings.QUERY_STRING_PARAMETERS, 'v=1697604537171');
 
             tour = new TDV.Tour(settings, devicesUrl);
             tour.bind(TDV.Tour.EVENT_TOUR_INITIALIZED, onVirtualTourInit);
